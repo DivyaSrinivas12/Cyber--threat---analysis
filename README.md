@@ -66,6 +66,9 @@ Analyzing the cybersecurity posture and online presence of **SORA**, OpenAI’s 
 ### ⚙️ Tools Used
 - `curl -i` to test web headers (403 Forbidden shown)  
 - Intrusion Detection System (IDS)
+- Nmap- Zenmap GUI
+- Who is, (WEBSITE)
+- Command Prompt, CMD
 
 ---
 
